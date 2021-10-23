@@ -10,9 +10,8 @@ Projetos fictícios desenvolvidos durante o curso de desenvolvimento web complet
     </td>    
     <td>
       <h3>02 - Site Anna Bella</h3>
-      <a href="./02-site-Unes/">Código</a><br><br>
-     
-    </td>    
-    
+      <a href="./02-site-Anna-Bella/">Código</a><br><br>
+     <a href="https://github.com/livia-somera"><img src="https://i.picasion.com/pic91/051946bcd1042cd81a78c31cfba36e3c.gif" width="300" height="225" border="0"></a>
+    </td>        
   </tr>
 </table>

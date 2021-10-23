@@ -1,7 +1,7 @@
 # Sites em HTML e CSS
 Projetos fictícios desenvolvidos durante o curso de desenvolvimento web completo do prof Jamilton Damasceno para treino de HTML e CSS
 
-<table border="1">
+<table border="1" align="center">
   <tr>
     <td>
       <h3>01 - Site UNES</h3>

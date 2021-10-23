@@ -1,0 +1,182 @@
+/*Limpar formatações padrão*/
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-size: 1em;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: #e6e6e6;
+}
+
+/*Layout*/
+
+#areaCabecalho{
+	background-color: #f7b600;
+	padding: 15px;
+	text-align: center;
+}
+
+#areaLogo, #areaMenu{
+	padding: 10px;
+}
+
+#areaPrincipal{
+	width: 920px;
+	margin: 0 auto;
+	padding: 15px;
+}
+
+#areaPostagens{
+	width: 660px;
+	float: left;
+}
+
+#areaLateral{
+	width: 240px;
+	float: right;
+}
+
+#rodape{
+	clear: both;
+	text-align: center;
+	padding: 15px;
+	background: #CCC;
+}
+
+.postagem{
+	padding: 20px;
+	margin-bottom: 20px;
+	background: white;
+}
+
+.conteudoLateral{
+	background: white;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+.postagemLateral{
+	 font-size: 0.8em;
+	 padding: 5px;
+	 border-bottom: 1px solid #CCC;
+}
+
+.tabela{
+	padding-left: 20px;
+	padding-bottom: 20px;
+	margin-bottom: 50px;
+}
+
+.tabela2{
+	padding-left: 100px;
+}
+
+tr{
+	height: 20px;
+}
+
+
+/*Formatação do menu*/
+a{
+	text-decoration: none;
+}
+
+a:link, a:visited{
+	color: #f7b600;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+/*Utilização de SELETORES combinados com ID para formatar apenas os links que estão dentro do cabeçalho*/
+#areaCabecalho a:link, #areaCabecalho a:visited{
+	color: #FFF;
+	padding: 8px 12px;
+}
+
+#areaCabecalho a:hover{
+	color: #f7b600;
+	background: #FFF;
+	text-decoration: none;
+}
+
+/*Formatação geral*/
+
+h1{
+	color: #4e4e4e;
+	font-size: 2.5em;
+}
+
+h2{
+	color: #f7b600;
+}
+
+h3{
+	color: #565656;
+	background: #CCC;
+	padding: 5px;
+}
+
+.branco{
+	color: white;
+}
+
+.dataPostagem{
+	font-size: 0.8em;
+	border-bottom: 1px solid #CCC;
+	padding-top: 7px;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	display: block;
+}
+
+form{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: left;
+}
+
+.formulario{
+	font-weight: bold;
+	padding: 10px;
+}
+
+.formulario input{
+	width: 280px;
+	height: 25px;
+	border-radius: 5px;
+	outline: 0;  
+	text-align: center;
+	font-size: 1em;
+	font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+}
+
+.coluna{
+	width: 130px;
+	padding: 15px;
+}
+
+textarea{
+	width: 285px;
+	height: 70px;
+	border-radius: 5px;
+	outline: 0;  
+	text-align: left;
+	font-size: 1em;
+	font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+}
+
+#botao{
+	width: 100px;
+  	height 40px;
+  	font-size: 1.2em;
+  	font-weight: bold;
+  	background-color: #f7b600;
+  	color: black;
+  	border-radius: 5px;
+  	font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+  }

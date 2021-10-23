@@ -14,4 +14,11 @@ Projetos fictícios desenvolvidos durante o curso de desenvolvimento web complet
      <a href="https://github.com/livia-somera"><img src="https://i.picasion.com/pic91/051946bcd1042cd81a78c31cfba36e3c.gif" width="300" height="225" border="0"></a>
     </td>        
   </tr>
+  <tr>
+    <td>
+      <h3>03 - Site TecBlog</h3>
+      <a href="./02-site-TecBlog/">Código</a><br><br>
+     <a href="https://github.com/livia-somera"><img src="https://i.picasion.com/pic91/63321503857b9b43acda9d8187b1eded.gif" width="300" height="225" border="0"></a>
+    </td> 
+  </tr>
 </table>

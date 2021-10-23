@@ -1,13 +1,18 @@
 # Sites em HTML e CSS
 Projetos fictícios desenvolvidos durante o curso de desenvolvimento web completo do prof Jamilton Damasceno para treino de HTML e CSS
 
-<table>
-  <td>
-    <tr>
+<table border="1">
+  <tr>
+    <td>
       <h3>01 - Site UNES</h3>
-      <li><a href="./01-site-Unes/">Código</a></li><br>
+      <a href="./01-site-Unes/">Código</a><br><br>
      <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/1141ce0baaf0fadee053828ad2638bb5.gif" width="300" height="225" border="0"></a>
-    </tr>
+    </td>    
+    <td>
+      <h3>02 - Site Anna Bella</h3>
+      <a href="./02-site-Unes/">Código</a><br><br>
+     
+    </td>    
     
-  </td>
+  </tr>
 </table>

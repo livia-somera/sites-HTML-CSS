@@ -1,4 +1,4 @@
-# Sites em HTML e CSS
+# Projetos em HTML e CSS
 Projetos fictícios desenvolvidos durante o curso de Desenvolvimento Web Completo do professor Jamilton Damasceno utilizando apenas HTML5 e CSS3
 
 <table border="1" align="center">

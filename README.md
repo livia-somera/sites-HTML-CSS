@@ -1,6 +1,13 @@
-# Projetos em HTML e CSS
-Projetos fictícios desenvolvidos durante o curso de Desenvolvimento Web Completo do professor Jamilton Damasceno utilizando apenas HTML5 e CSS3
+<h1 align="center">Projetos em HTML e CSS</h1>
 
+<p align="center">Projetos fictícios desenvolvidos durante o curso de Desenvolvimento Web Completo do professor Jamilton Damasceno</p>
+<br>
+
+## 💻 Tecnologias 
+- HTML
+- CSS
+
+<br>
 <table border="1" align="center">
   <tr>
     <td>
